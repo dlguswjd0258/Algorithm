@@ -10,6 +10,12 @@ SWEA
 
 BOJ
 
+| unrated                                                      |
+| ------------------------------------------------------------ |
+| <a href="https://github.com/dlguswjd0258/Algorithm/tree/test/BOJ/unrated/B1244_스위치켜고끄기.java">1244 스위치 켜고 끄기</a> |
+
+
+
 | bronze 5 | bronze 4 | bronze 3 | bronze 2 | bronze 1 |
 | -------- | -------- | -------- | -------- | -------- |
 |          |          |          |          |          |
