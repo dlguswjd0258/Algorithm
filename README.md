@@ -2,11 +2,11 @@
 
 #### SWEA
 
-| D1   | D2                                                           | D3                                                           | D4   | D5   |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
-|      | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/D2/S1954_달팽이숫자.java">1954 달팽이 숫자</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/D3/S1289_원재의메모리복구하기.java">1289 원재의 메모리 복구하기</a> |      |      |
-|      |                                                              | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/D3/S1873_상호의배틀필드.java">1873 상호의 배틀필드</a> |      |      |
-|      |                                                              | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/S2805_농작물수확하기.java">2805 농작물수확하기</a> |      |      |
+| D1   | D2                                                           | D3                                                           | D4                                                           | D5   |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|      | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/D2/S1954_달팽이숫자.java">1954 달팽이 숫자</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/D3/S1289_원재의메모리복구하기.java">1289 원재의 메모리 복구하기</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/D4/S2493_탑.java">2493 탑</a> |      |
+|      |                                                              | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/D3/S1873_상호의배틀필드.java">1873 상호의 배틀필드</a> |                                                              |      |
+|      |                                                              | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/D3/S2805_농작물수확하기.java">2805 농작물수확하기</a> |                                                              |      |
 
 #### BOJ
 
@@ -22,9 +22,9 @@
 
 
 
-| gold 5 | gold 4 | gold 3 | gold 2 | gold 1 |
-| ------ | ------ | ------ | ------ | ------ |
-|        |        |        |        |        |
+| gold 5                                                       | gold 4 | gold 3 | gold 2 | gold 1 |
+| ------------------------------------------------------------ | ------ | ------ | ------ | ------ |
+| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold5/B1218_괄호짝짓기.java">1218 괄호 짝짓기</a> |        |        |        |        |
 
 
 
