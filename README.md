@@ -42,9 +42,9 @@
 
 #### Jungol
 
-| 문제은행                                                     |      |
-| ------------------------------------------------------------ | ---- |
-| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/Jungol/J1810_백설공주.java">1810 백설공주</a> |      |
+| 문제은행                                                     |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/Jungol/J1810_백설공주.java">1810 백설공주</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/Jungol/J1141_불쾌한날.java">J1141 불쾌한날</a> |
 
 
 
