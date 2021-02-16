@@ -16,13 +16,15 @@
 
 #### BOJ
 
-| bronze 5 | bronze 4 | bronze 3 | bronze 2 | bronze 1 |
-| -------- | -------- | -------- | -------- | -------- |
-|          |          |          |          |          |
+| bronze 5 | bronze 4 | bronze 3 | bronze 2 | bronze 1                                                     |
+| -------- | -------- | -------- | -------- | ------------------------------------------------------------ |
+|          |          |          |          | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/bronze1/B11050_이항계수1.java">11050 이항계수1</a> |
 
-| silver 5                                                     | silver 4                                                     | silver 3                                                     | silver 2 | silver 1 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | -------- |
-| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver5/B17478_재귀함수가뭔가요.java">17478 재귀함수가 뭔가요?</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver4/B1244_스위치켜고끄기.java">1244 스위치 켜고 끄기</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver3/B15649_N과M.java">15649 N과M</a> |          |          |
+| silver 5                                                     | silver 4                                                     | silver 3                                                     | silver 2 | silver 1                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver5/B17478_재귀함수가뭔가요.java">17478 재귀함수가 뭔가요?</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver4/B1244_스위치켜고끄기.java">1244 스위치 켜고 끄기</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver3/B15649_N과M.java">15649 N과M</a> |          | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver1/B11051_이항계수2.java">11051 이항계수2</a> |
+| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver5/B1158_요세푸스문제.java">1158 요세푸스 문제</a> |                                                              | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver3/B16935_배열돌리기3.java">16935 배열 돌리기3</a> |          |                                                              |
+| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver5/B2563_색종이.java">2563 색종이</a> |                                                              |                                                              |          |                                                              |
 
 | gold 5                                                       | gold 4 | gold 3 | gold 2 | gold 1 |
 | ------------------------------------------------------------ | ------ | ------ | ------ | ------ |
