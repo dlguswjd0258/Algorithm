@@ -24,9 +24,13 @@
 
 #### BOJ
 
-| bronze 5 | bronze 4 | bronze 3 | bronze 2 | bronze 1                                                     |
-| -------- | -------- | -------- | -------- | ------------------------------------------------------------ |
-|          |          |          |          | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/bronze1/B11050_이항계수1.java">11050 이항계수1</a> |
+| bronze 5 | bronze 4 | bronze 3 | bronze 2                                                     | bronze 1                                                     |
+| -------- | -------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|          |          |          | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/bronze2/B10448_유레카이론.java">10448 유레카이론</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/bronze1/B11050_이항계수1.java">11050 이항계수1</a> |
+|          |          |          | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/bronze2/B1076_저항.java">1076 저항</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/bronze1/B2839_설탕배달.java">2839 설탕배달</a> |
+|          |          |          | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/bronze2/B2161_카드1.java">2161 카드1</a> |                                                              |
+|          |          |          | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/bronze2/B3040_백설공주와일곱난쟁이.java">3040 백설공주와 일곱난쟁이</a> |                                                              |
+|          |          |          | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/bronze2/B5566_주사위게임.java">5566 주사위게임</a> |                                                              |
 
 | silver 5                                                     | silver 4                                                     | silver 3                                                     | silver 2 | silver 1                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
