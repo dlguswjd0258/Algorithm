@@ -38,9 +38,12 @@
 | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver5/B1158_요세푸스문제.java">1158 요세푸스 문제</a> |                                                              | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver3/B16935_배열돌리기3.java">16935 배열 돌리기3</a> |          |                                                              |
 | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/silver5/B2563_색종이.java">2563 색종이</a> |                                                              |                                                              |          |                                                              |
 
-| gold 5                                                       | gold 4 | gold 3 | gold 2 | gold 1 |
-| ------------------------------------------------------------ | ------ | ------ | ------ | ------ |
-| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold5/B1218_괄호짝짓기.java">1218 괄호 짝짓기</a> |        |        |        |        |
+| gold 5                                                       | gold 4                                                       | gold 3                                                       | gold 2                                                       | gold 1 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold5/B1218_괄호짝짓기.java">1218 괄호 짝짓기</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold4/B1918_후위표기식.java">1918 후위표기식</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold3/B1167_트리의지름.java">1167 트리의지름</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold2/B3109_빵집.java">3109 빵집</a> |        |
+| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold5/B15686_치킨배달.java">15686 치킨 배달</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold4/B1987_알파벳.java">1987 알파벳</a> |                                                              |                                                              |        |
+| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold5/B1342_행운의문자열.java">1342 행운의 문자열</a> |                                                              |                                                              |                                                              |        |
+|                                                              |                                                              |                                                              |                                                              |        |
 
 
 
