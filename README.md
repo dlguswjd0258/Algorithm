@@ -49,7 +49,7 @@
 
 | platinum 5                                                   | platinum 4 | platinum 3 | platinum 2 | platinum 1 |
 | ------------------------------------------------------------ | ---------- | ---------- | ---------- | ---------- |
-| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/platinum5/B14003_가장긴증가하는부분수열5.java">가장 긴 증가하는 부분 수열 5</a> |            |            |            |            |
+| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/platinum5/B14003_가장긴증가하는부분수열5.java">14003 가장 긴 증가하는 부분 수열 5</a> |            |            |            |            |
 
 
 
