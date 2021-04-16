@@ -17,6 +17,7 @@
 | 모의테스트                                                   |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/MockTest/S4012_요리사.java">4012 요리사</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/MockTest/S2105_디저트카페.java">2105 디저트 카페</a> |
+| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/MockTest/S1953_탈주범검거.java">1953 탈주범 검거</a> |                                                              |
 
 
 
