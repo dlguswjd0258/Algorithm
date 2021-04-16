@@ -14,9 +14,9 @@
 |      |                                                              | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/D3/S9229_한빈이의SpotMart.java">9229 한빈이의 Spot Mart</a> |                                                              |                                                              |
 |      |                                                              | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/D3/S6808_규영이와인영이의카드게임.java">6808 규영이와 인영이의 카드게임</a> |                                                              |                                                              |
 
-| 모의테스트                                                   |      |
-| ------------------------------------------------------------ | ---- |
-| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/MockTest/S4012_요리사.java">4012 요리사</a> |      |
+| 모의테스트                                                   |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/MockTest/S4012_요리사.java">4012 요리사</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/SWEA/MockTest/S2105_디저트카페.java">2105 디저트 카페</a> |
 
 
 
