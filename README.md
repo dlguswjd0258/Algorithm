@@ -47,7 +47,9 @@
 | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold5/B15686_치킨배달.java">15686 치킨 배달</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold4/B1987_알파벳.java">1987 알파벳</a> |                                                              | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold2/B10775_공항.java">10775 공항</a> |                                                              |
 | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold5/B1342_행운의문자열.java">1342 행운의 문자열</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold4/B1062_가르침.java">1062 가르침</a> |                                                              |                                                              |                                                              |
 | [11559_PuyoPuyo](BOJ/gold5/B11559_PuyoPuyo.java)             | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold4/B2239_스도쿠.java">2239 스도쿠</a> |                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |                                                              |                                                              |
+|                                                              | [2638 치즈](BOJ/gold4/B2638_치즈.java)                       |                                                              |                                                              |                                                              |
+
+
 
 | platinum 5                                                   | platinum 4 | platinum 3 | platinum 2 | platinum 1 |
 | ------------------------------------------------------------ | ---------- | ---------- | ---------- | ---------- |
