@@ -48,6 +48,7 @@
 | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold5/B1342_행운의문자열.java">1342 행운의 문자열</a> | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold4/B1062_가르침.java">1062 가르침</a> |                                                              |                                                              |                                                              |
 | [11559_PuyoPuyo](BOJ/gold5/B11559_PuyoPuyo.java)             | <a href="https://github.com/dlguswjd0258/Algorithm/tree/main/BOJ/gold4/B2239_스도쿠.java">2239 스도쿠</a> |                                                              |                                                              |                                                              |
 | [20065 마법사 상어와 파이어볼](BOJ/gold5/B20065_마법사상어와파이어볼.java) | [2638 치즈](BOJ/gold4/B2638_치즈.java)                       |                                                              |                                                              |                                                              |
+|                                                              | [5052 전화번호 목록](BOJ/gold4/B5052_전화번호목록.java)      |                                                              |                                                              |                                                              |
 
 
 
