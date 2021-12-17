@@ -1,5 +1,5 @@
 /**
-* 메모리: 59992 KB, 시간: 184 ms
+* 메모리: 60220 KB, 시간: 172 ms
 * 2021.12.17
 * by Alub
 */
@@ -11,7 +11,7 @@ import java.util.StringTokenizer;
 
 public class Main {
 
-	static int F, S, G, U, D;
+	static int F, S, G, UnD[] = new int[2];
 
 	public static void main(String[] args) throws Exception {
 		init();
@@ -22,6 +22,7 @@ public class Main {
 		} else {
 			System.out.println(min);
 		}
+
 	}
 
 	private static int getMinMove() {
@@ -37,31 +38,25 @@ public class Main {
 		boolean[] visited = new boolean[F + 1];
 		visited[S] = true;
 
-		int now, nextU, nextD, move;
+		int now, next, move;
 		while (!que.isEmpty()) {
 			now = que.peek()[0];
-			move = que.poll()[1];
+			move = que.poll()[1] + 1;
 
-			// 위로 올라가기
-			nextU = now + U;
-			// 아래로 내려가기
-			nextD = now - D;
-
-			// 현재 층에서 위로 가거나 아래로 갔을 때 스타트링크 층이라면 move + 1 리턴
-			if (nextU == G || nextD == G) {
-				return move + 1;
-			}
-
-			// 위로 갈 수 있고 가본적 없다면 que에 담기
-			if (isIn(nextU) && !visited[nextU]) {
-				visited[nextU] = true;
-				que.offer(new int[] {nextU, move+1});
-			}
-			
-			// 아래로로 갈 수 있고 가본적 없다면 que에 담기
-			if (isIn(nextD) && !visited[nextD]) {
-				visited[nextD] = true;
-				que.offer(new int[] {nextD, move+1});
+			for (int und : UnD) {
+				next = now + und;
+				// 다음 층이 스타트 링크가 있는 층이라면 move return
+				if(next == G) {
+					return move;
+				}
+				
+                if(!isIn(next) || visited[next]){
+                    continue;
+                }
+                
+				// 다음 층에 갈 수 있고 간적 없으면 que에 추가
+                visited[next] = true;
+                que.offer(new int[] { next, move });
 			}
 		}
 
@@ -78,8 +73,8 @@ public class Main {
 		F = Integer.parseInt(st.nextToken());
 		S = Integer.parseInt(st.nextToken());
 		G = Integer.parseInt(st.nextToken());
-		U = Integer.parseInt(st.nextToken());
-		D = Integer.parseInt(st.nextToken());
-
+		UnD[0] = Integer.parseInt(st.nextToken()); // up
+		UnD[1] = -Integer.parseInt(st.nextToken()); // down
 	}
+
 }
