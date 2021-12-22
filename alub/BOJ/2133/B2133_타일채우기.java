@@ -1,15 +1,15 @@
 /**
-* 메모리: 12828 KB, 시간: 108 ms
+* 메모리: 11444 KB, 시간: 80 ms
 * 2021.12.22
 * by Alub
 */
-import java.util.Scanner;
+import java.io.*;
 
 public class Main {
 
 	static int N;
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		input();
 		System.out.println(getCnt());
 	}
@@ -33,8 +33,8 @@ public class Main {
 		return dp[N];
 	}
 
-	private static void input() {
-		Scanner sc = new Scanner(System.in);
-		N = sc.nextInt();
+	private static void input() throws Exception {
+		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+		N = Integer.parseInt(in.readLine());
 	}
 }
