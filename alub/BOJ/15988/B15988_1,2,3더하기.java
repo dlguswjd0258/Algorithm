@@ -1,5 +1,5 @@
 /**
-* 메모리: 15576 KB, 시간: 104 ms
+* 메모리: 15564 KB, 시간: 100 ms
 * 2022.01.05
 * by Alub
 */
@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 public class Main {
 
 	static final int MOD = 1000000009;
-	static int T, input[], dp[] = new int[1000001];
+	static int T, input[], dp[];
 
 	public static void main(String[] args) throws Exception {
 		int max = input();
@@ -38,6 +38,8 @@ public class Main {
 	}
 
 	private static void initDP(int max) {
+        dp = new int[max + 1];
+        
 		// 0과 1을 만드는 방법의 수는 1가지
 		dp[0] = dp[1] = 1;
 
