@@ -1,5 +1,5 @@
 /**
-* 메모리: 11544 KB, 시간: 76 ms
+* 메모리: 11488 KB, 시간: 80 ms
 * 2022.03.30
 * by Alub
 */
@@ -13,24 +13,24 @@ class Main {
     
     public static void main(String[] args) throws Exception {
         input();
-        
         System.out.println(getMinCnt());
     }
     
     private static int getMinCnt() {
+        // 필요한 원소 최소 개수
         int min = 5;
         
         for(int i = 0; i < N; i++) {            
-            // i 이후부터 5이상 차이나는 위치 찾기
-            int cnt = 4;
+            // i부터 연속적인 배열을 만들기 위해 사용되는 원소 개수 찾아 빼기
+            int cnt = 4; // 필요한 원소 개수
             for(int j = i + 1; j < N; j++) {
+                // 5 이상 차이나면 끝내기
                 if(num[j] - num[i] >= 5) 
                     break;
                 
                 cnt--;
             }
             
-            // 이전과 비교해서 작은 값 저장
             min = Math.min(cnt, min);
         }
         
